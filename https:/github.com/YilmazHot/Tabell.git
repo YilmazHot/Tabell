@@ -1,0 +1,43 @@
+  <!DOCTYPE html>
+  <html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title>Tabell</title>
+    </head>
+    <body>
+      <table>
+       <thead>
+         <tr>
+           <th>Gruppe</th>
+           <th>Torsdag 2/9</th>
+           <th>Tirsdag 7/9</th>
+           <th>Torsdag 9/9</th>
+         </tr>
+         <tbody>
+           <tr>
+             <td>Gruppe 1</td>
+             <td> </td>
+             <td> </td>
+             <td> </td>
+           </tr>
+           <tr>
+             <td>Gruppe 2</td>
+             <td> </td>
+             <td> </td>
+             <td> </td>
+           </tr>
+           <tr>
+              <td>Gruppe 3</td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+
+         </tbody>
+      </table>
+      <h3>Our lord:</h3>
+      <img src="https://pbs.twimg.com/profile_images/378800000636779761/2c1dd926213bef718f7a0870dd167de9.jpeg" alt=""
+  width="200"
+  height="200">
+    </body>
+  </html>
